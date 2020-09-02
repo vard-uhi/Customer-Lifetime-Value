@@ -1,6 +1,10 @@
 # Customer Lifetime Value
 
-Task: Predict Customer Lifetime Value using Linear Regression and interpret results.
+Probplem Statement
+
+In this Case Study we will predict Customer Lifetime Value using Linear Regression and interpret results.
+
+Customer lifetime value is how much money a customer will bring to your company throughout their entire time as a paying customer. In our dataset we have already feature with calculated CLVs. Our task is to make prediction of CLV.
 
 Dataset Features:
 
