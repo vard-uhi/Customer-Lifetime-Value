@@ -1,6 +1,6 @@
 # Customer Lifetime Value
 
-Task: Predict Customer Lifetime Value using Linear Regression
+Task: Predict Customer Lifetime Value using Linear Regression and interpret results.
 
 Dataset Features:
 
